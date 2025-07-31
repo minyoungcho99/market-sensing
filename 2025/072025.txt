@@ -15,6 +15,20 @@ Cognition, Windsurf 전체 기술 자산과 브랜드, 직원들을 인수 (07/1
 - Windsurf는 8200만 달러 연간 ARR, 350개 이상의 엔터프라이즈 고객을 보유하고 있으며, Claude API 접근권을 가지고 Devin에 통합
 - Cognition은 인수와 함께 직원 베스팅 조기 실행, 고객 신뢰 회복을 위한 보상책을 동시에 발표
 
+OpenAI, ChatGPT Agent 발표 (7/17)
+- 라이브스트림을 통해 ChatGPT Pro/Plus/Teams 구독자에게 Agent mode를 공개
+- 멀티스탭 자율 실행, 작업에 맞는 환경 선택 및 전환 등 대화형 AI를 넘어 Agentic AI의 실현 초읽기
+- GPT-5의 핵심 기능 중 하나로 추측
+
+Microsoft, Google의 DeepMind 핵심 인재 영입 (7/22)
+- 최근 몇 달간 DeepMind 소속 AI 인력 약 24명을 채용
+- Microsoft AI 총괄 Mustafa Suleyman (Ex DeepMind Cofounder)의 주도 아래 이뤄졌으며 Copilot, Health AI 등의 제품 강화 목적
+
+Nvidia와 Snowflake, 새로운 유니콘 스타트업 Reka AI에 $110M 투자 (7/23)
+- Reka AI는 기존 GPT-4나 Gemini Ultra급 성능에 근접하면서 연산 비용을 크게 절감하는 효율성 높은 모델 제시
+- Nvidia는 Reka AI의 대규모 모델 학습에 필요한 GPU 인프라와 기술을 지원, Snowflake는 데이터 환경 통합 지원
+- 인수 가능성이 논의되었으나 협업의 형태로 전환
+
 OpenAI ChatGPT ‘Study Mode’ 발표 (7/29)
 - 단순히 정답을 생성하는 것을 넘어 스스로 사고하며 학습할 수 있는 인터랙티브 학습 도구 기능 확장
 - Socratic Method, 단계별 가이드, 맞춤형 학습 등을 통해 학습 성과를 높일 예정
